@@ -1,0 +1,107 @@
+*{
+    background-color: #dfe3ee;
+}
+.FB{
+    margin-top: 200px;
+    margin-left: 150px;
+}
+
+h1{
+    color: royalblue;
+    font-size: 70px;
+    font-family: sans-serif;
+}
+h2{
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 24px;
+}
+.container{
+    width: 400px;
+    height: 350px;
+    float:right;
+    margin-top: -250px;
+    margin-right: 160px;
+    border-radius: 10px;
+    background-color: white;
+    width: 400px;
+    height: 300px;
+    text-align: center;
+}
+.form{
+    float: right;
+    margin-right: -390px;
+    margin-top: -250px;
+    background-color: white;
+    padding: 17px;
+}
+.form input{
+    margin-top: 10px;
+    margin-left: -10px;
+    border-radius: 8px;
+    margin-right: -10px;
+    padding: 17px;
+    width: 330px;
+    border: none;
+
+}
+
+button{
+    float: right;
+    margin-top: 15px;
+    background-color: #1877f2;
+    padding: 16px;
+    width: 100%;
+    border-radius: 8px;
+    border: none;
+    color: white;
+}
+.btn{
+    margin-top: 15px;
+    background-color: white;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.btn button{
+    float: right;
+    margin-top: 15px;
+    background-color: limegreen;
+    padding: 10px;
+    width: 100%;
+    border-radius: 8px;
+    border: none;
+    color: white;
+}
+.cnaa{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background-color: aliceblue;
+}
+.container1{
+    max-width: 500px;
+    width: 100%;
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+}
+.container1 .title{
+    font-size: 25px;
+    font-weight: 500;
+    background-color: white;
+}
+.container1 form .user{
+    display: flex;
+    offset-distance: 5px;
+}
+.user .input-box input{
+    height: 45px;
+    width: 100%;
+    padding: 3px;
+}
+.mail .iput-box input{ 
+    height: 45px;
+    width: 100%;
+    padding: 3px;
+}
